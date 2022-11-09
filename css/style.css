@@ -82,7 +82,7 @@ i {
 
 .banner h2 {
     font-size: 4rem;
-    margin-bottom: 1.2rem;
+    margin: 2rem 0 4rem;
     position: relative;
     z-index: 2;
 }
